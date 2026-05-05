@@ -1,2 +1,0 @@
-# neon
-Game 1
